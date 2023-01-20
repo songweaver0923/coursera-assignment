@@ -1,3 +1,3 @@
-# assignment notebook (coursera)
+# coursera assignments
 
 
