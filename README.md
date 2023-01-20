@@ -1,3 +1,3 @@
-# testcourse
+# assignment notebook (coursera)
 
-this is my readme test file
+
